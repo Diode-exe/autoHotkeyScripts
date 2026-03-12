@@ -1,4 +1,5 @@
 ﻿#SingleInstance
+
 ::\shrug::¯\_(ツ)_/¯
 ::\degrees::°
 ::\degcel::°C
