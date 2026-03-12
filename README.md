@@ -20,6 +20,10 @@ To use any of the scripts in this repository, follow these steps:
 
 - `copilot.ahk` - Rebinds the Copilot key to Right Ctrl.
 
+## Note
+
+You may need to press enter after typing the abbreviation for it to expand. Usually, pressing space will be sufficient. It seems to not work in some text fields, such as the Firefox URL bar.
+
 ## Contributing
 
 Feel free to add more scripts or improve existing ones. If you have any suggestions or want to contribute, please open an issue or submit a pull request. Make sure to include a clear description of the changes you have made and the purpose of the script.
